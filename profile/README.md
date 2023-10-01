@@ -1,5 +1,3 @@
-Composys: Unleashing the Power of Composable NFTs
-
 Welcome to **Composys**! We are reshaping the NFT space by introducing the innovative concept of composable collections. Discover a platform where you can not only trade NFTs but also their individual traits and attributes.
 
 ## 🌐 Quick Links
